@@ -98,3 +98,4 @@ Portifólio de alguns projetos envolvendo comunicação visual feitos por mim.
 ## Placas ##
 
 ![design](imagens/placa1.jpg)
+
