@@ -1,4 +1,4 @@
-# Portifolio como designer
+# Portifolio Comunicação Visual
 Por [Guilherme Lima](imagens/https://github.com/gslima)
 
 Portifólio de alguns projetos envolvendo comunicação visual feitos por mim.
