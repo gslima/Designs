@@ -5,96 +5,96 @@ Portifólio de alguns projetos envolvendo comunicação visual feitos por mim.
 
 ## Camisas ##
 
-![design](imagens/Waldo.jpg){:height="100px"}
+![design](imagens/Waldo.jpg&s=100)
 
 ## Capas de livros ##
 
-![design](imagens/capa1.jpg){:height="100px"}
-![design](imagens/capa2.jpg){:height="100px"}
-![design](imagens/capa3.jpg){:height="100px"}
-![design](imagens/capa4.jpg){:height="100px"}
-![design](imagens/capa5.jpg){:height="100px"}
-![design](imagens/capa6.jpg){:height="100px"}
-![design](imagens/capa7.jpg){:height="100px"}
-![design](imagens/capa8.jpg){:height="100px"}
-![design](imagens/capa9.jpg){:height="100px"}
-![design](imagens/capa10.jpg){:height="100px"}
-![design](imagens/capa11.jpg){:height="100px"}
-![design](imagens/capa12.jpg){:height="100px"}
-![design](imagens/capa13.jpg){:height="100px"}
-![design](imagens/capa14.jpg){:height="100px"}
-![design](imagens/capa15.jpg){:height="100px"}
-![design](imagens/capa16.jpg){:height="100px"}
-![design](imagens/capa17.jpg){:height="100px"}
-![design](imagens/capa18.jpg){:height="100px"}
-![design](imagens/capa19.jpg){:height="100px"}
-![design](imagens/capa20.jpg){:height="100px"}
-![design](imagens/capa21.jpg){:height="100px"}
-![design](imagens/capa22.jpg){:height="100px"}
-![design](imagens/capa23.jpg){:height="100px"}
-![design](imagens/capa24.jpg){:height="100px"}
-![design](imagens/capa25.jpg){:height="100px"}
-![design](imagens/capa26.jpg){:height="100px"}
-![design](imagens/capa27.jpg){:height="100px"}
+![design](imagens/capa1.jpg&s=100)
+![design](imagens/capa2.jpg&s=100)
+![design](imagens/capa3.jpg&s=100)
+![design](imagens/capa4.jpg&s=100)
+![design](imagens/capa5.jpg&s=100)
+![design](imagens/capa6.jpg&s=100)
+![design](imagens/capa7.jpg&s=100)
+![design](imagens/capa8.jpg&s=100)
+![design](imagens/capa9.jpg&s=100)
+![design](imagens/capa10.jpg&s=100)
+![design](imagens/capa11.jpg&s=100)
+![design](imagens/capa12.jpg&s=100)
+![design](imagens/capa13.jpg&s=100)
+![design](imagens/capa14.jpg&s=100)
+![design](imagens/capa15.jpg&s=100)
+![design](imagens/capa16.jpg&s=100)
+![design](imagens/capa17.jpg&s=100)
+![design](imagens/capa18.jpg&s=100)
+![design](imagens/capa19.jpg&s=100)
+![design](imagens/capa20.jpg&s=100)
+![design](imagens/capa21.jpg&s=100)
+![design](imagens/capa22.jpg&s=100)
+![design](imagens/capa23.jpg&s=100)
+![design](imagens/capa24.jpg&s=100)
+![design](imagens/capa25.jpg&s=100)
+![design](imagens/capa26.jpg&s=100)
+![design](imagens/capa27.jpg&s=100)
 
 ## Cartazes ##
 
-![design](imagens/Boanoite.jpg){:height="100px"}
-![design](imagens/Hiperatividade.jpg){:height="100px"}
-![design](imagens/Pedreira.jpg){:height="100px"}
-![design](imagens/Sentido.jpg){:height="100px"}
+![design](imagens/Boanoite.jpg&s=100)
+![design](imagens/Hiperatividade.jpg&s=100)
+![design](imagens/Pedreira.jpg&s=100)
+![design](imagens/Sentido.jpg&s=100)
 
 ## Cartões de visita ##
 
-![design](imagens/cartao1.png){:height="100px"}
-![design](imagens/cartao2.1.jpg){:height="100px"}
-![design](imagens/cartao2.2.jpg){:height="100px"}
-![design](imagens/cartao3.jpg){:height="100px"}
+![design](imagens/cartao1.png)
+![design](imagens/cartao2.1.jpg&s=100)
+![design](imagens/cartao2.2.jpg&s=100)
+![design](imagens/cartao3.jpg&s=100)
 
 ## Convites ##
 
-![design](imagens/convite.jpg){:height="100px"}
+![design](imagens/convite.jpg&s=100)
 
 ## Crachás ##
 
-![design](imagens/cracha1.jpg){:height="100px"}
-![design](imagens/cracha2.jpg){:height="100px"}
+![design](imagens/cracha1.jpg&s=100)
+![design](imagens/cracha2.jpg&s=100)
 
 ## Folders ##
 
-![design](imagens/folder1.1.jpg){:height="100px"}
-![design](imagens/folder1.2.jpg){:height="100px"}
-![design](imagens/folder2.1.jpg){:height="100px"}
-![design](imagens/folder2.2.jpg){:height="100px"}
-![design](imagens/folder3.1.jpg){:height="100px"}
-![design](imagens/folder3.2.jpg){:height="100px"}
-![design](imagens/folder4.jpg){:height="100px"}
-![design](imagens/folder5.1.jpg){:height="100px"}
-![design](imagens/folder5.2.jpg){:height="100px"}
+![design](imagens/folder1.1.jpg&s=100)
+![design](imagens/folder1.2.jpg&s=100)
+![design](imagens/folder2.1.jpg&s=100)
+![design](imagens/folder2.2.jpg&s=100)
+![design](imagens/folder3.1.jpg&s=100)
+![design](imagens/folder3.2.jpg&s=100)
+![design](imagens/folder4.jpg&s=100)
+![design](imagens/folder5.1.jpg&s=100)
+![design](imagens/folder5.2.jpg&s=100)
 
 ## Jornais ##
 
-![design](imagens/Jornal1.jpg){:height="100px"}
-![design](imagens/Jornal2.jpg){:height="100px"}
+![design](imagens/Jornal1.jpg&s=100)
+![design](imagens/Jornal2.jpg&s=100)
 
 ## Logotipos ##
 
-![design](imagens/logo1.jpg){:height="100px"}
-![design](imagens/logo2.jpg){:height="100px"}
-![design](imagens/logo3.jpg){:height="100px"}
-![design](imagens/logo4.jpg){:height="100px"}
-![design](imagens/logo5.png){:height="100px"}
-![design](imagens/logo6.jpg){:height="100px"}
-![design](imagens/logo7.png){:height="100px"}
-![design](imagens/logo8.jpg){:height="100px"}
+![design](imagens/logo1.jpg&s=100)
+![design](imagens/logo2.jpg&s=100)
+![design](imagens/logo3.jpg&s=100)
+![design](imagens/logo4.jpg&s=100)
+![design](imagens/logo5.png)
+![design](imagens/logo6.jpg&s=100)
+![design](imagens/logo7.png)
+![design](imagens/logo8.jpg&s=100)
 
 ## Panfletos ##
-![design](imagens/panfleto1.jpg){:height="100px"}
+![design](imagens/panfleto1.jpg&s=100)
 
 ## Papel timbrado ##
 
-![design](imagens/papel1.jpg){:height="100px"}
+![design](imagens/papel1.jpg&s=100)
 
 ## Placas ##
 
-![design](imagens/placa1.jpg){:height="100px"}
+![design](imagens/placa1.jpg&s=100)
