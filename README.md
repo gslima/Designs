@@ -48,7 +48,6 @@ Portifólio de alguns projetos envolvendo comunicação visual feitos por mim.
 
 ![design](imagens/cartao1.png)
 ![design](imagens/cartao2.1.jpg)
-![design](imagens/cartao2.2.jpg)
 ![design](imagens/cartao3.jpg)
 
 ## Convites ##
